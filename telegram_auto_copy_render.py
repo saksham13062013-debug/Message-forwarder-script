@@ -6,7 +6,7 @@ API_ID = int(os.environ["API_ID"])
 API_HASH = os.environ["API_HASH"]
 SESSION_STRING = os.environ["SESSION_STRING"]
 
-SOURCE = "@DAILY_GIFT_CODEEE"
+SOURCE = "@Vanshupredictionsking"
 DESTINATION = "@CODE13167"
 
 client = TelegramClient(
